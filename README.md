@@ -9,11 +9,5 @@ Este repositório contém um resumo colaborativo dos principais conceitos de Git
 3.- Branch
 É como um rascunho idependente  onde se houver erro não vai alterar o projeto principal
 4.- Merge
-É um código para enviar um Branch para o main 
-## Comandos Essenciais
-git clone
-git status
-git add
-git commit
-git push
-git pull
+É um código para enviar um Branch para o main
+# Conflito resolvido 
